@@ -21,6 +21,6 @@
 #### Обо мне
 Мне нравится реализовывать свои идеи в жизнь и делиться этим с людьми. Чтобы доступно объяснять сложные вещи, необходимо подкреплять теорию визуалом и интерактивностью. Этим мне и нравится вебразработка, ведь это универсальный инструмент,который открывает большой простор для творчества.
 
-<img align="left" alt="codeStaker's" src="https://github-readme-stats.vercel.app/api?username=orlov-oleg-developer&show_icons=true&hide_border=true">
+<!-- <img align="left" alt="codeStaker's" src="https://github-readme-stats.vercel.app/api?username=orlov-oleg-developer&show_icons=true&hide_border=true"> -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurovdigital&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
