@@ -2,6 +2,10 @@
 #### Меня зовут Олег и я начинающий Front-end разработчик
 
 ---
+#### Обо мне
+Мне нравится реализовывать свои идеи в жизнь и делиться этим с людьми. Чтобы доступно объяснять сложные вещи, необходимо подкреплять теорию визуалом и интерактивностью. Этим мне и нравится вебразработка, ведь это универсальный инструмент, который открывает большой простор для творчества.
+
+---
 
 #### Мой стек:
 ![HYML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
@@ -12,14 +16,14 @@
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 #### Мои проекты:
-
+[![Mesto](https://img.shields.io/badge/-Mesto-141130?style=for-the-badge)](https://github.com/orlov-oleg-developer/mesto)
+[![Russian Travel](https://img.shields.io/badge/-Russian_Travel-141130?style=for-the-badge)](https://github.com/orlov-oleg-developer/russian-travel)
 
 #### Мои контакты:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/orlov_development)
 [![Mail](https://img.shields.io/badge/-eagle.217@mail.ru-141130?style=for-the-badge&logo=Gmail)](mailto:eagle.217@mail.ru)
 
-#### Обо мне
-Мне нравится реализовывать свои идеи в жизнь и делиться этим с людьми. Чтобы доступно объяснять сложные вещи, необходимо подкреплять теорию визуалом и интерактивностью. Этим мне и нравится вебразработка, ведь это универсальный инструмент,который открывает большой простор для творчества.
+
 
 <!-- <img align="left" alt="codeStaker's" src="https://github-readme-stats.vercel.app/api?username=orlov-oleg-developer&show_icons=true&hide_border=true"> -->
 
