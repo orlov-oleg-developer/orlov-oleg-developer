@@ -21,6 +21,10 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### Мои проекты:
+### Проект портфолио с поиском фильмов:
+[![Front-end](https://img.shields.io/badge/-Front-end-141130?style=for-the-badge)](https://github.com/orlov-oleg-developer/movies-explorer-frontend)
+[![Back-end](https://img.shields.io/badge/-Back-end-141130?style=for-the-badge)](https://github.com/orlov-oleg-developer/movies-explorer-api)
+### Другие проекты:
 [![Mesto](https://img.shields.io/badge/-Mesto-141130?style=for-the-badge)](https://github.com/orlov-oleg-developer/mesto)
 [![Russian Travel](https://img.shields.io/badge/-Russian_Travel-141130?style=for-the-badge)](https://github.com/orlov-oleg-developer/russian-travel)
 
