@@ -25,7 +25,7 @@
 [![Front-end](https://img.shields.io/badge/-Front-141130?style=for-the-badge)](https://github.com/orlov-oleg-developer/movies-explorer-frontend)
 [![Back-end](https://img.shields.io/badge/-Back-141130?style=for-the-badge)](https://github.com/orlov-oleg-developer/movies-explorer-api)
 ##### Другие проекты:
-[![Mesto](https://img.shields.io/badge/-Mesto-141130?style=for-the-badge)](https://github.com/orlov-oleg-developer/mesto)
+[![Mesto](https://img.shields.io/badge/-Mesto-141130?style=for-the-badge)](https://github.com/orlov-oleg-developer/react-mesto-api-full)
 [![Russian Travel](https://img.shields.io/badge/-Russian_Travel-141130?style=for-the-badge)](https://github.com/orlov-oleg-developer/russian-travel)
 
 #### Мои контакты:
