@@ -20,19 +20,28 @@
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+#### Освоеные технологии:
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+##### Тестирование:
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+##### Сборщики:
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+
 #### Мои проекты:
 ##### Проект портфолио с поиском фильмов:
 [![Front-end](https://img.shields.io/badge/-Front-141130?style=for-the-badge)](https://github.com/orlov-oleg-developer/movies-explorer-frontend)
-[![Back-end](https://img.shields.io/badge/-Back-141130?style=for-the-badge)](https://github.com/orlov-oleg-developer/movies-explorer-api)
-##### Другие проекты:
-[![Mesto](https://img.shields.io/badge/-Mesto-141130?style=for-the-badge)](https://github.com/orlov-oleg-developer/react-mesto-api-full)
-[![Russian Travel](https://img.shields.io/badge/-Russian_Travel-141130?style=for-the-badge)](https://github.com/orlov-oleg-developer/russian-travel)
+[![Back-end](https://img.shields.io/badge/-Back-141130?style=for-the-badge)](https://github.com/orlov-oleg-developer/movies-explorer-api) 
 
 #### Мои контакты:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/orlov_development)
 [![Mail](https://img.shields.io/badge/-eagle.217@mail.ru-141130?style=for-the-badge&logo=Gmail)](mailto:eagle.217@mail.ru)
 
-
+#### Изучен следующий материал:
+1. Курс "Веб разработчик" от Я. Практикума. [Ссылка](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2Fdh2eHx6oi7UROshvKA7vVcq0PTj3eUy5Nr0mC7sdHXd3O9NgjVpR%2BgmgwVWTm9Hdq%2FJ6bpmRyOJonT3VoXnDag%3D%3D&name=Орлов%20Олег%20Сергеевич_20232WD00151.pdf&nosw=1)
+2. Курс "Продвинутый фронтенд" от Ulbi TV
+3. Книга "Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих. Адитья Бхаргава"
+4. Книга "Проффесиональный TypeScript. Борис Черный"
+5. Книга "React Сборник рецептов. Дэвид Гриффитс. Дон Гриффитс"
 
 <!-- <img align="left" alt="codeStaker's" src="https://github-readme-stats.vercel.app/api?username=orlov-oleg-developer&show_icons=true&hide_border=true"> -->
 
