@@ -23,11 +23,12 @@
 #### Освоеные библиотеки:
 ##### Разработка:
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-[![Loki](https://img.shields.io/badge/-Loki-141130?style=for-the-badge)]((https://konvajs.org/index.html))
-[![React Testing Library](https://img.shields.io/badge/-React_Testing_Library-141130?style=for-the-badge)]((https://konvajs.org/index.html))
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![ESLINT](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+[![React Testing Library](https://img.shields.io/badge/-React_Testing_Library-141130?style=for-the-badge)]((https://konvajs.org/index.html))
+[![Loki](https://img.shields.io/badge/-Loki-141130?style=for-the-badge)]((https://konvajs.org/index.html))
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+
 ##### Графика:
 [![Konva.js](https://img.shields.io/badge/-Konva.js-141130?style=for-the-badge)]((https://konvajs.org/index.html))
 [![Plotly](https://img.shields.io/badge/-Plotly-141130?style=for-the-badge)]((https://plotly.com/javascript/))
