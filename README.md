@@ -28,13 +28,13 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![ESLINT](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![ React Testing Library ](https://img.shields.io/badge/React_Testing_Library-141130?style=for-the-badge&logo=react)
-![ Loki ](https://img.shields.io/badge/Loki-141130?style=for-the-badge&logo=loki)
+![ React Testing Library ](https://img.shields.io/badge/React_Testing_Library-black?style=for-the-badge&logo=react)
+![ Loki ](https://img.shields.io/badge/Loki-black?style=for-the-badge&logo=loki)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
 ##### Графика:
-![ Konva ](https://img.shields.io/badge/Konva.js-141130?style=for-the-badge&logo=konva)
-![ Plotly ](https://img.shields.io/badge/Plotly.js-141130?style=for-the-badge&logo=plotly)
+![ Konva ](https://img.shields.io/badge/Konva.js-white?style=for-the-badge&logo=konva)
+![ Plotly ](https://img.shields.io/badge/Plotly.js-black?style=for-the-badge&logo=plotly)
 
 ---
 
