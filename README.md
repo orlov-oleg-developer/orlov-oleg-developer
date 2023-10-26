@@ -17,21 +17,26 @@
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
+##### Был опыт разработки Back-end приложения на:
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
 
 #### Освоеные библиотеки:
 ##### Разработка:
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![ESLINT](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-[![React Testing Library](https://img.shields.io/badge/-React_Testing_Library-141130?style=for-the-badge)]((https://konvajs.org/index.html))
-[![Loki](https://img.shields.io/badge/-Loki-141130?style=for-the-badge)]((https://konvajs.org/index.html))
+![ React Testing Library ](https://img.shields.io/badge/React_Testing_Library-141130?style=for-the-badge&logo=react)
+![ Loki ](https://img.shields.io/badge/Loki-141130?style=for-the-badge&logo=loki)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
 ##### Графика:
-[![Konva.js](https://img.shields.io/badge/-Konva.js-141130?style=for-the-badge)]((https://konvajs.org/index.html))
-[![Plotly](https://img.shields.io/badge/-Plotly-141130?style=for-the-badge)]((https://plotly.com/javascript/))
+![ Konva ](https://img.shields.io/badge/Konva.js-141130?style=for-the-badge&logo=konva)
+![ Plotly ](https://img.shields.io/badge/Plotly.js-141130?style=for-the-badge&logo=plotly)
+
+---
 
 #### Мои проекты:
 ##### Проект портфолио с поиском фильмов:
@@ -41,6 +46,8 @@
 #### Мои контакты:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/orlov_development)
 [![Mail](https://img.shields.io/badge/-eagle.217@mail.ru-141130?style=for-the-badge&logo=Gmail)](mailto:eagle.217@mail.ru)
+
+---
 
 #### Изучен следующий материал:
 1. Курс "Веб разработчик" от Я. Практикума. [Ссылка](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2Fdh2eHx6oi7UROshvKA7vVcq0PTj3eUy5Nr0mC7sdHXd3O9NgjVpR%2BgmgwVWTm9Hdq%2FJ6bpmRyOJonT3VoXnDag%3D%3D&name=Орлов%20Олег%20Сергеевич_20232WD00151.pdf&nosw=1)
