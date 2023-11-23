@@ -42,7 +42,7 @@
 ##### Графика:
 ![ Konva ](https://img.shields.io/badge/Konva.js-white?style=for-the-badge&logo=konva)
 ![ Plotly ](https://img.shields.io/badge/Plotly.js-black?style=for-the-badge&logo=plotly)
-
+![ Flow ](https://img.shields.io/badge/React_Flow-black?style=for-the-badge&logo=flow)
 ---
 
 #### Мои проекты:
