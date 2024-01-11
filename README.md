@@ -62,10 +62,10 @@
 
 #### Изучен следующий материал:
 1. Курс "Веб разработчик" от Я. Практикума. [Ссылка](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2Fdh2eHx6oi7UROshvKA7vVcq0PTj3eUy5Nr0mC7sdHXd3O9NgjVpR%2BgmgwVWTm9Hdq%2FJ6bpmRyOJonT3VoXnDag%3D%3D&name=Орлов%20Олег%20Сергеевич_20232WD00151.pdf&nosw=1)
-2. Курс "Продвинутый фронтенд" от Ulbi TV (20%)
+2. Курс "Продвинутый фронтенд" от Ulbi TV (30%)
 3. Книга "Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих. Адитья Бхаргава" (90%)
 4. Книга "Проффесиональный TypeScript. Борис Черный" (45%)
-5. Книга "React Сборник рецептов. Дэвид Гриффитс. Дон Гриффитс" (15%)
+5. Книга "React Сборник рецептов. Дэвид Гриффитс. Дон Гриффитс" (35%)
 
 <!-- <img align="left" alt="codeStaker's" src="https://github-readme-stats.vercel.app/api?username=orlov-oleg-developer&show_icons=true&hide_border=true"> -->
 
