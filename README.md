@@ -45,6 +45,10 @@
 ![ Flow ](https://img.shields.io/badge/React_Flow-black?style=for-the-badge&logo=flow)
 ---
 
+#### Командные проекты:
+##### Сервис с диаграммами:
+[![Front-end](https://img.shields.io/badge/-Front-141130?style=for-the-badge)](https://github.com/web-diagrams/web-diagrams-front)
+
 #### Мои проекты:
 ##### Проект портфолио с поиском фильмов:
 [![Front-end](https://img.shields.io/badge/-Front-141130?style=for-the-badge)](https://github.com/orlov-oleg-developer/movies-explorer-frontend)
