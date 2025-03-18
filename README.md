@@ -23,10 +23,11 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux Toolkit Query](https://img.shields.io/badge/Redux%20Toolkit%20Query-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
-##### Был опыт разработки Back-end приложения на:
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+##### Был опыт разработки Back-end приложений. Вот что использовал:
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
@@ -34,16 +35,23 @@
 #### Освоеные библиотеки:
 ##### Разработка:
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![ESLINT](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
+![MSW](https://img.shields.io/badge/MSW-EF4444?style=for-the-badge&logo=msw&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![ React Testing Library ](https://img.shields.io/badge/React_Testing_Library-black?style=for-the-badge&logo=react)
 ![ Loki ](https://img.shields.io/badge/Loki-black?style=for-the-badge&logo=loki)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
 ##### Графика:
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![React Flow](https://img.shields.io/badge/React%20Flow-007ACC?style=for-the-badge&logo=react&logoColor=white)
 ![ Konva ](https://img.shields.io/badge/Konva.js-white?style=for-the-badge&logo=konva)
 ![ Plotly ](https://img.shields.io/badge/Plotly.js-black?style=for-the-badge&logo=plotly)
-![ Flow ](https://img.shields.io/badge/React_Flow-black?style=for-the-badge&logo=flow)
+
+##### Работа с данными:
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Day.js](https://img.shields.io/badge/Day.js-FF5F00?style=for-the-badge&logo=dayjs&logoColor=white)
 ---
 
 #### Командные проекты:
