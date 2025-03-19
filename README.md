@@ -1,17 +1,5 @@
 ### Добро пожаловать в мир разработок 👋
-#### Меня зовут Олег и я Front-end разработчик
-
----
-#### Обо мне
-Весь мой путь в программировании совпадает с желанием реализовать собственные идеи.
-Этот путь можно разделить на следующие этапы:
-1. Программирование на командных блоках в minecraft (до 2015 года - школьное время)
-2. Разработка приложений в Unity c дополнненой реальностью (язык C#) (2020 год)
-3. Разработка плагинов для Minecraft (язык Java) (2021 год)
-4. Разработка системы управления учебным макетом - веб приложение на Vue.js + Arduino скрипт для NodeMCU (2022 год)
-5. Курс "Веб-разработчик" от Яндекс Практикума (2022 - 2023 года)
-6. Работа в стартапе: работал с болишм количеством таблиц, графиков и графикой на canvas (2023-2024)
-7. Работа в финтехе (2024 - сейчас)
+#### Меня зовут Олег и я Front-end разработчик с 2022 года
 
 ---
 
@@ -29,8 +17,6 @@
 ##### Был опыт разработки Back-end приложений. Вот что использовал:
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
 
 #### Освоеные библиотеки:
 ##### Разработка:
@@ -51,17 +37,14 @@
 
 ##### Работа с данными:
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Day.js](https://img.shields.io/badge/Day.js-FF5F00?style=for-the-badge&logo=dayjs&logoColor=white)
+![Day.js](https://img.shields.io/badge/Day.js-FF5F00?style=for-the-badge&logo=dayjs&logoColor=white)  
+
 ---
 
-#### Командные проекты:
-##### Сервис с диаграммами:
-[![Front-end](https://img.shields.io/badge/-Front-141130?style=for-the-badge)](https://github.com/web-diagrams/web-diagrams-front)
+#### Мои проекты и проекты в которых я принимаю участие:
+[![Frontend Advent](https://img.shields.io/badge/Frontend_Advent-FF4500?style=for-the-badge&logo=fire&logoColor=white)](https://simple-on-it.com/frontend-advent/calendar)
+[![Сервис с диаграммами](https://img.shields.io/badge/Сервис_с_диаграммами-4F46E5?style=for-the-badge&logo=appveyor&logoColor=white)](https://github.com/web-diagrams/web-diagrams-front)
 
-#### Мои проекты:
-##### Проект портфолио с поиском фильмов:
-[![Front-end](https://img.shields.io/badge/-Front-141130?style=for-the-badge)](https://github.com/orlov-oleg-developer/movies-explorer-frontend)
-[![Back-end](https://img.shields.io/badge/-Back-141130?style=for-the-badge)](https://github.com/orlov-oleg-developer/movies-explorer-api) 
 
 #### Мои контакты:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/orlov_development)
