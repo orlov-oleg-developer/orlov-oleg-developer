@@ -43,7 +43,6 @@
 ---
 
 #### Мои проекты и проекты в которых я принимаю участие:
-[![Frontend Advent](https://img.shields.io/badge/Frontend_Advent-FF4500?style=for-the-badge&logo=fire&logoColor=white)](https://simple-on-it.com/frontend-advent/calendar)
 [![Сервис с диаграммами](https://img.shields.io/badge/Сервис_с_диаграммами-4F46E5?style=for-the-badge&logo=appveyor&logoColor=white)](https://github.com/web-diagrams/web-diagrams-front)
 
 
